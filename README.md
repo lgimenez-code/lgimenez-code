@@ -11,7 +11,7 @@ Hello there 👋
 
 <h4>Working with</h4>
 <p>
-  <a href="#" style="cursor:default">
+  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" style="max-width: 100%;">
   </a>
   <a href="#">
