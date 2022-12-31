@@ -1,8 +1,10 @@
 Hello there 👋
-<p>🧑🏽 My name is Lucas Gimenez</p>
-<p>💻 Actually I am currently working as a FullStack developer with .NET and JavaScript.</p>
-<p>👨🏽‍🔧 I am currently learning angular</p>
-<p>🎨 My hobbie is drawing</p>
+<ul>
+  <li>🧑🏽 My name is Lucas Gimenez</li>
+  <li>💻 Actually I am currently working as a FullStack developer with .NET and JavaScript</li>
+  <li>👨🏽‍🔧 I am currently learning angular</li>
+  <li>🎨 My hobbie is drawing</li>
+</ul>
 
 <h4>Working with</h4>
 <p>
