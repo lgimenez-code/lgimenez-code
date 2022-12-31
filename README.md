@@ -47,16 +47,16 @@ Hello there 👋
 <h4>Using</h4>
 <p>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" style="max-width: 100%;">
-  </a>
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" style="max-width: 100%;">
-  </a>
-  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg" style="max-width: 100%;">
   </a>
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" style="max-width: 100%;">
   </a>
 </p>
 
