@@ -6,7 +6,7 @@ Hello there
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg"
       style="max-width: 100%;">
   </a>
-  <a href="#">
+  <a target="_blank" rel="noopener noreferrer" href="#">
     <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer" href="#">
