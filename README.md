@@ -78,7 +78,7 @@ Hello there 👋
   <a href="https://twitter.com/lgimenez_code" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="max-width: 100%;">
   </a>
-  <a target="_blank" href="https://www.instagram.com/lgimenez.code/" >
+  <a target="_blank" href="https://www.instagram.com/lgimenez.code/" rel="noopener noreferrer">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="instagram" style="max-width: 100%;">
   </a>  
 </p>
