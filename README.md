@@ -31,9 +31,6 @@ Hello there 👋
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg" alt="vue" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" style="max-width: 100%;">
-  </a>
-  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="max-width: 100%;">
   </a>
   <a href="#">
