@@ -2,8 +2,7 @@ Hello there 👋
 <ul>
   <li>🧑🏽 My name is Lucas Gimenez</li>
   <li>💻 Working as a FullStack developer</li>
-  <li>👨🏽‍🔧 I am currently learning Angular</li>
-  <li>🎨 My hobbie is drawing</li>
+  <li>👨🏽‍🔧 I am currently learning Angular and React</li>
 </ul>
 
 <br>
