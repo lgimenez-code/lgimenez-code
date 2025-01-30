@@ -10,23 +10,6 @@ Hello there 👋
 <h4>Currently working with the following tools</h4>
 <p>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg" alt="vue" style="max-width: 100%;">
-  </a>
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
-  </a>
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="max-width: 100%;">
-  </a>
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="max-width: 100%;">
-  </a>
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width: 100%;">
-  </a>
-</p>
-<p>
-  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" style="max-width: 100%;">
   </a>
   <a href="#">
@@ -39,6 +22,18 @@ Hello there 👋
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" style="max-width: 100%;">
   </a>
 </p>
+<p>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg" alt="vue" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width: 100%;">
+  </a>
+</p>
+
 
 <h4>Socials & Contact</h4>
 <p>
