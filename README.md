@@ -1,8 +1,7 @@
 Hello there 👋
 <ul>
   <li>🧑🏽 My name is Lucas Gimenez</li>
-  <li>💻 Working as a Frontend developer</li>
-  <li>👨🏽‍🔧 I am currently learning React</li>
+  <li>💻 Working as a Fullstack developer</li>
 </ul>
 
 <br>
